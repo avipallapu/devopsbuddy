@@ -1,0 +1,3 @@
+#Test Account 
+stripe.test.private.key=sk_test_JM4IIk2x1wlJoS7y207OvdkM
+stripe.test.publishable.key=pk_test_WlzglElUTPVe3BV4Xa5hUZuZ
